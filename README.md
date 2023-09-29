@@ -10,5 +10,6 @@ Biochemistry, Bsc
 
 ### Projects
 Loan App Prediction
+
 Employee Attrition
 
